@@ -1,0 +1,12 @@
+[0         RELIANCE
+1              TCS
+2         HDFCBANK
+3             INFY
+4       HINDUNILVR
+           ...    
+1917     FOURTHDIM
+1918        ARTEDZ
+1919        BANSAL
+1920           NaN
+1921           NaN
+Name: Symbol, Length: 1922, dtype: object]
